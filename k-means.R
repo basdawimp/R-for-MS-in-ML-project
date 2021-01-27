@@ -1,12 +1,3 @@
-#################################################################################################
-## This script will help you get started with your project                                     ##
-## Specifically, you'll learn how to load an image into R and obtain the RGB data frame        ##
-## You'll also see the expected result, once the image is compressed using k-means clustering  ##
-## Here, we will invoke an existing kmeans function.                                           ##  
-## In your project you're expected to write the code yourself!                                 ##
-#################################################################################################
-
-#You'll need to uncomment the following two lines if the corresponding packages are not already installed.
 install.packages("jpeg")
 install.packages("gridExtra")
 
